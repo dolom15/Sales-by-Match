@@ -1,1 +1,1 @@
-# Sales-by-Match
+# Sales-by-Match This code counts how many pairs of socks with matching colors are in a given list by using a dictionary to tally each color. It then sums the number of pairs for each color and returns the total.
